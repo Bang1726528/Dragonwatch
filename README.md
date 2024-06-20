@@ -4,3 +4,7 @@ This is a custom World boss unitscanner for Dragonwatch, modified by Dokka. All 
 
 # Usage
 Bosses are already pre-configured, no need to add them. Simply install into your Interface/addons folder and remove the -master from the folder name.
+
+# Commands
+/dragonwatch
+- Displays currently tracked bosses
