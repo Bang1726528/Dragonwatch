@@ -1,0 +1,6 @@
+## Interface: 11200
+## Author: shirsig and Dokka
+## Title: Dragonwatch
+## Notes: Unit scanner with flashy alert - Customised for Dragonwatch
+## SavedVariables: Dragonwatch_targets
+Dragonwatch.lua
